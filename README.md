@@ -1,6 +1,7 @@
-### Hey there, I am Prakriti 👋
+### Hey, I am Prakriti 👋
 
 ##🔭 I'm an Engineering student (ECE) | KIIT'22
+
 ##🌱 I’m currently learning DSA and working on my coding skills with consistent practice.
 
 
