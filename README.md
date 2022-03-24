@@ -1,6 +1,7 @@
 ### Hey there, I am Prakriti 👋
 
 ##🔭 I'm an Engineering student (ECE) | KIIT'22
+
 ##🌱 I’m currently learning DSA with consistent practice.
 
 <!--
