@@ -4,6 +4,8 @@
 
 ##🌱 I’m currently learning DSA and working on my coding skills with consistent practice.
 
+##📫 You can reach out to me at prakriti.k006@gmail.com or https://www.linkedin.com/in/kprakriti-1510/
+
 
 
 <!--
