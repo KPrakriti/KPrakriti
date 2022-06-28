@@ -2,7 +2,7 @@
 
 ##🔭 I'm an Engineering student (ECE) | KIIT'22
 
-##🌱 I’m currently learning DSA and working on my coding skills with consistent practice.
+##🌱 I’m currently learning DSA and working on my Problem Solving skills with consistent practice.
 
 ##📫 You can reach out to me here -> https://www.linkedin.com/in/kprakriti-1510/
 
