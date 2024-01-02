@@ -1,4 +1,4 @@
-### Hey, I am Prakriti 👋
+### Hey! I am Prakriti. 👋
 
 ##🔭 I'm an Engineering student (ECE) | KIIT'22
 
